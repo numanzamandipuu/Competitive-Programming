@@ -296,6 +296,77 @@ https://cses.fi/problemset/task/1633 Dice Combinations
 
 
 
+
+
+
+01 - https://storage.googleapis.com/teachstack/video_lectures/3593bbe7-65ad-40a0-9419-1b4dca348eae.mp4?timestamp=Vp1H1laD3oPtHRZfJV43kOc5l9X2
+02 - https://storage.googleapis.com/teachstack/video_lectures/6340fdde-fe11-4b08-9bd7-1877ffb9dd62.mp4?timestamp=Vp1H1laD3oPtHRZfJV43kOc5l9X2
+03 - https://www.youtube.com/watch?v=P1dHONToCu0
+04 - https://www.youtube.com/watch?v=cdip-17c72c
+05 - https://www.youtube.com/watch?v=0M5tRIwizXg
+06 - https://www.youtube.com/watch?v=dHpEw4lFRlA
+07 - https://www.youtube.com/watch?v=jEhKeiBbyK4
+08 - https://www.youtube.com/watch?v=1FVy06BcK9U
+09 - https://www.youtube.com/watch?v=Pz_XrhHRZH8
+10 - https://www.youtube.com/watch?v=W2LU4jUemeA
+11 - https://www.youtube.com/watch?v=I-PHryaoLG4
+12 - https://www.youtube.com/watch?v=X1f06Fg_n2M
+13 - https://www.youtube.com/watch?v=xZyW_C2oi1I
+14 - https://www.youtube.com/watch?v=yNhLnIgNmnw
+15 - https://www.youtube.com/watch?v=lDPrhgr6m_4
+16 - https://www.youtube.com/watch?v=cU09da2rjps
+17 - https://www.youtube.com/watch?v=sa2JA-mXExM
+18 - https://www.youtube.com/watch?v=TnT-zizzsms
+19 - https://www.youtube.com/watch?v=1Ry_LB4qyq8
+20 - https://www.youtube.com/watch?v=b-rHYbFVfzI
+21 - https://www.youtube.com/watch?v=De30WNyPvcc
+22 - https://www.youtube.com/watch?v=1w5s1G6dXQ0
+23 - https://www.youtube.com/watch?v=313jbMPMVJA
+24 - https://www.youtube.com/watch?v=VYcGNdO5tjs
+25 - https://www.youtube.com/watch?v=x0qPOoqZh4Y
+26 - https://www.youtube.com/watch?v=D1wawfUIr0w
+27 - https://www.youtube.com/watch?v=dCGK3WuhMb4
+28 - https://www.youtube.com/watch?v=-a0ph33ZJRM
+29 - https://www.youtube.com/watch?v=hVGgyzpX9u4
+30 - https://www.youtube.com/watch?v=J6ePVFJsyPQ
+
+
+<a href="https://www.youtube.com/watch?v=J6ePVFJsyPQ" target="_blank" class="text-decoration-none"> Lecture 30 </a>
+
+
+
+
+<a href="https://storage.googleapis.com/teachstack/video_lectures/3593bbe7-65ad-40a0-9419-1b4dca348eae.mp4?timestamp=Vp1H1laD3oPtHRZfJV43kOc5l9X2" target="_blank" class="text-decoration-none"> Lecture 01 </a>
+<a href="https://storage.googleapis.com/teachstack/video_lectures/6340fdde-fe11-4b08-9bd7-1877ffb9dd62.mp4?timestamp=Vp1H1laD3oPtHRZfJV43kOc5l9X2" target="_blank" class="text-decoration-none"> Lecture 02 </a>
+<a href="https://www.youtube.com/watch?v=P1dHONToCu0" target="_blank" class="text-decoration-none"> Lecture 03 </a>
+<a href="https://www.youtube.com/watch?v=cdip-17c72c" target="_blank" class="text-decoration-none"> Lecture 04 </a>
+<a href="https://www.youtube.com/watch?v=0M5tRIwizXg" target="_blank" class="text-decoration-none"> Lecture 05 </a>
+<a href="https://www.youtube.com/watch?v=dHpEw4lFRlA" target="_blank" class="text-decoration-none"> Lecture 06 </a>
+<a href="https://www.youtube.com/watch?v=jEhKeiBbyK4" target="_blank" class="text-decoration-none"> Lecture 07 </a>
+<a href="https://www.youtube.com/watch?v=1FVy06BcK9U" target="_blank" class="text-decoration-none"> Lecture 08 </a>
+<a href="https://www.youtube.com/watch?v=Pz_XrhHRZH8" target="_blank" class="text-decoration-none"> Lecture 09 </a>
+<a href="https://www.youtube.com/watch?v=W2LU4jUemeA" target="_blank" class="text-decoration-none"> Lecture 10 </a>
+<a href="https://www.youtube.com/watch?v=I-PHryaoLG4" target="_blank" class="text-decoration-none"> Lecture 11 </a>
+<a href="https://www.youtube.com/watch?v=X1f06Fg_n2M" target="_blank" class="text-decoration-none"> Lecture 12 </a>
+<a href="https://www.youtube.com/watch?v=xZyW_C2oi1I" target="_blank" class="text-decoration-none"> Lecture 13 </a>
+<a href="https://www.youtube.com/watch?v=yNhLnIgNmnw" target="_blank" class="text-decoration-none"> Lecture 14 </a>
+<a href="https://www.youtube.com/watch?v=lDPrhgr6m_4" target="_blank" class="text-decoration-none"> Lecture 15 </a>
+<a href="https://www.youtube.com/watch?v=cU09da2rjps" target="_blank" class="text-decoration-none"> Lecture 16 </a>
+<a href="https://www.youtube.com/watch?v=sa2JA-mXExM" target="_blank" class="text-decoration-none"> Lecture 17 </a>
+<a href="https://www.youtube.com/watch?v=TnT-zizzsms" target="_blank" class="text-decoration-none"> Lecture 18 </a>
+<a href="https://www.youtube.com/watch?v=1Ry_LB4qyq8" target="_blank" class="text-decoration-none"> Lecture 19 </a>
+<a href="https://www.youtube.com/watch?v=b-rHYbFVfzI" target="_blank" class="text-decoration-none"> Lecture 20 </a>
+<a href="https://www.youtube.com/watch?v=De30WNyPvcc" target="_blank" class="text-decoration-none"> Lecture 21 </a>
+<a href="https://www.youtube.com/watch?v=1w5s1G6dXQ0" target="_blank" class="text-decoration-none"> Lecture 22 </a>
+<a href="https://www.youtube.com/watch?v=313jbMPMVJA" target="_blank" class="text-decoration-none"> Lecture 23 </a>
+<a href="https://www.youtube.com/watch?v=VYcGNdO5tjs" target="_blank" class="text-decoration-none"> Lecture 24 </a>
+<a href="https://www.youtube.com/watch?v=x0qPOoqZh4Y" target="_blank" class="text-decoration-none"> Lecture 25 </a>
+<a href="https://www.youtube.com/watch?v=D1wawfUIr0w" target="_blank" class="text-decoration-none"> Lecture 26 </a>
+<a href="https://www.youtube.com/watch?v=dCGK3WuhMb4" target="_blank" class="text-decoration-none"> Lecture 27 </a>
+<a href="https://www.youtube.com/watch?v=-a0ph33ZJRM" target="_blank" class="text-decoration-none"> Lecture 28 </a>
+<a href="https://www.youtube.com/watch?v=hVGgyzpX9u4" target="_blank" class="text-decoration-none"> Lecture 29 </a>
+<a href="https://www.youtube.com/watch?v=J6ePVFJsyPQ" target="_blank" class="text-decoration-none"> Lecture 30 </a>
+
 01 - 28-10-2022 - https://storage.googleapis.com/teachstack/video_lectures/3593bbe7-65ad-40a0-9419-1b4dca348eae.mp4?timestamp=Vp1H1laD3oPtHRZfJV43kOc5l9X2
 02 - 31-10-2022 - https://storage.googleapis.com/teachstack/video_lectures/6340fdde-fe11-4b08-9bd7-1877ffb9dd62.mp4?timestamp=Vp1H1laD3oPtHRZfJV43kOc5l9X2
 03 - 03-11-2022 - https://www.youtube.com/watch?v=P1dHONToCu0
@@ -326,3 +397,68 @@ https://cses.fi/problemset/task/1633 Dice Combinations
 28 - 21-03-2023 - https://www.youtube.com/watch?v=-a0ph33ZJRM
 29 - 26-03-2023 - https://www.youtube.com/watch?v=hVGgyzpX9u4
 30 - 31-03-2023 - https://www.youtube.com/watch?v=J6ePVFJsyPQ
+
+01 - https://docs.google.com/document/d/1clbz1v1OZ9EcP69Dx8amtfMKOZkkc0OrPJQxSdkiASY/edit
+02 - https://drive.google.com/file/d/1dGvDQQFOc8iC2KhI5nrjoWhFTczz3sii/view?usp=share_link
+03 - https://drive.google.com/drive/folders/1aevITKf9wjKoA0oFhcPM7-u7lt1Z7EE9
+04 - https://drive.google.com/file/d/1F6laYtGm543gaYj0on6aeInK26wRNlj7/view?usp=share_link
+05 - https://drive.google.com/drive/folders/11KIVSFsZX0Tml6OqW8xvTdJvyOaDbTGY
+06 - https://docs.google.com/document/d/14fd2XVVXTQ4I3QpUjz7pBbiX_sP5_9aUxKOAJPCTEyM/edit
+07 - https://docs.google.com/document/d/1X7D1kuEk5gxGSDRnKfNpRizk_4O0WKJ8dCNazPIJkGE/edit?usp=sharing
+08 - https://docs.google.com/document/d/1bHnoFs8Pw3ranafVXPJBRr_HVNI11AztbWVLyukXuKU/edit
+09 - https://docs.google.com/document/d/1t9Niub50PGbvPqZdnrCUvi3DHStkEzactL9yn_dyKqU/edit?usp=sharing
+10 - https://docs.google.com/document/d/1VziJmUkzGS1JILG8dqt3sTlgvYQChrGXJJCfCXGxmoI/edit
+11 - https://drive.google.com/file/d/1A4prhhatu_1sRh9Ecu-XsOd94bt0kTQx/view?usp=share_link
+12 - https://codeforces.com/problemset/problem/677/A
+13 - https://drive.google.com/file/d/1PfgnxkM8tJtoGa-BDPDsfq8dufMgbv_n/view
+14 - https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/
+15 - https://drive.google.com/file/d/1JhMGiK7t5eHeWZ0B5u55x0mXZ5enNkcn/view
+16 - https://docs.google.com/document/d/1Ze5JybOmjDNeJpiDkZWy1ZRNZg8-BqWl8w_bD2bFd5U/edit
+17 - https://docs.google.com/document/d/1X5tpTyIwAdRmSdglYXdkhHrvxIGo9kr_hScx2KwxvKM/edit
+18 - https://docs.google.com/document/d/16LD_yggCGp05mPvZSXYSCrKab5AUSg3bDAr_mVD8J7s/edit
+19 - https://ideone.com/tKiSTS
+20 - https://codeforces.com/problemset/problem/1296/A
+21 - https://docs.google.com/document/d/1PWNzA8-2XFmpsIbMk_JMdLMUjTdqC7PYRu22Q6J80Mo/edit
+22 - https://ideone.com/qqYjw6
+23 - https://docs.google.com/document/d/1IGe0T0O2uiEO1oUKiWG2d7daukwI0g9-h0Ix8tknVQg/edit?usp=sharing
+24 - https://drive.google.com/file/d/1drYLocFAfGoC0DJhYQAtHyd12zTgxU3F/view?usp%253Dshare_link
+25 - https://docs.google.com/document/d/1KdoBdtkk1axT6RWpof3jZzY4VOPt_Foeh4ifHPzGdzY/edit?usp=sharing
+26 - https://docs.google.com/document/d/1WQonTKbB17gtQva-CI5uY5GwAMjWn0KInJAJGntmQgM/edit
+27 - https://docs.google.com/document/d/1Hd347vu97xFMFj7P7PhV8FGsFxmiizttdCtvqZhe43w/edit
+28 - https://leetcode.com/problems/product-of-the-last-k-numbers/
+29 - https://brilliant.org/
+30 - https://codeforces.com/blog/Um_nik
+
+
+<a href="https://docs.google.com/document/d/1clbz1v1OZ9EcP69Dx8amtfMKOZkkc0OrPJQxSdkiASY/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://drive.google.com/file/d/1dGvDQQFOc8iC2KhI5nrjoWhFTczz3sii/view?usp=share_link" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://drive.google.com/drive/folders/1aevITKf9wjKoA0oFhcPM7-u7lt1Z7EE9" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://drive.google.com/file/d/1F6laYtGm543gaYj0on6aeInK26wRNlj7/view?usp=share_link" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://drive.google.com/drive/folders/11KIVSFsZX0Tml6OqW8xvTdJvyOaDbTGY" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://docs.google.com/document/d/14fd2XVVXTQ4I3QpUjz7pBbiX_sP5_9aUxKOAJPCTEyM/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1X7D1kuEk5gxGSDRnKfNpRizk_4O0WKJ8dCNazPIJkGE/edit?usp=sharing" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1bHnoFs8Pw3ranafVXPJBRr_HVNI11AztbWVLyukXuKU/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1t9Niub50PGbvPqZdnrCUvi3DHStkEzactL9yn_dyKqU/edit?usp=sharing" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1VziJmUkzGS1JILG8dqt3sTlgvYQChrGXJJCfCXGxmoI/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://drive.google.com/file/d/1A4prhhatu_1sRh9Ecu-XsOd94bt0kTQx/view?usp=share_link" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://codeforces.com/problemset/problem/677/A" target="_blank" class="text-decoration-none">Codeforces Problem</a>
+<a href="https://drive.google.com/file/d/1PfgnxkM8tJtoGa-BDPDsfq8dufMgbv_n/view" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/" target="_blank" class="text-decoration-none">HackerEarth Tutorial</a>
+<a href="https://drive.google.com/file/d/1JhMGiK7t5eHeWZ0B5u55x0mXZ5enNkcn/view" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://docs.google.com/document/d/1Ze5JybOmjDNeJpiDkZWy1ZRNZg8-BqWl8w_bD2bFd5U/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1X5tpTyIwAdRmSdglYXdkhHrvxIGo9kr_hScx2KwxvKM/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/16LD_yggCGp05mPvZSXYSCrKab5AUSg3bDAr_mVD8J7s/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://ideone.com/tKiSTS" target="_blank" class="text-decoration-none">Ideone Snippet</a>
+<a href="https://codeforces.com/problemset/problem/1296/A" target="_blank" class="text-decoration-none">Codeforces Problem</a>
+<a href="https://docs.google.com/document/d/1PWNzA8-2XFmpsIbMk_JMdLMUjTdqC7PYRu22Q6J80Mo/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://ideone.com/qqYjw6" target="_blank" class="text-decoration-none">Ideone Snippet</a>
+<a href="https://drive.google.com/file/d/1IGe0T0O2uiEO1oUKiWG2d7daukwI0g9-h0Ix8tknVQg/edit" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://drive.google.com/file/d/1drYLocFAfGoC0DJhYQAtHyd12zTgxU3F/view?usp=share_link" target="_blank" class="text-decoration-none">Google Drive</a>
+<a href="https://docs.google.com/document/d/1KdoBdtkk1axT6RWpof3jZzY4VOPt_Foeh4ifHPzGdzY/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1WQonTKbB17gtQva-CI5uY5GwAMjWn0KInJAJGntmQgM/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://docs.google.com/document/d/1Hd347vu97xFMFj7P7PhV8FGsFxmiizttdCtvqZhe43w/edit" target="_blank" class="text-decoration-none">Google Docs</a>
+<a href="https://leetcode.com/problems/product-of-the-last-k-numbers/" target="_blank" class="text-decoration-none">LeetCode Problem</a>
+<a href="https://brilliant.org/" target="_blank" class="text-decoration-none">Brilliant Website</a>
+<a href="https://codeforces.com/blog/Um_nik" target="_blank" class="text-decoration-none">Codeforces Blog</a>
+
+
